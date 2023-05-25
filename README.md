@@ -53,7 +53,8 @@ while True:
 ```
 
 ## OUTPUT :
-![](stop.jpg)
+
+![stop](https://github.com/Soorya7/EX-2/assets/105735689/7132d4df-d471-4f50-8325-ca353689cc41)
 
 
 ## RESULT :
