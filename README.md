@@ -1,6 +1,6 @@
 # EX-2 IMPLEMENTATION OF STOP AND WAIT PROTOCOL
 
-DATE:
+DATE: 
 
 ## AIM :
 To write a python program to perform stop and wait protocol
